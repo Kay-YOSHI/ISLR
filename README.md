@@ -17,3 +17,5 @@ In other R files, the data sets which are part of the base R package or package 
 ## References
 
 James, G., Witten, D., Hastie, T. and Tibshirani, R.: "An Introduction to Statistical Learning with Applications in R," Springer Science+Business Media, New York (2013) https://www.statlearning.com/
+Hastie, T., Tibshirani, R. and Friedman, J.: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction," Springer Science+Business Media, New York (2009)
+https://web.stanford.edu/~hastie/ElemStatLearn/
